@@ -1,0 +1,4 @@
+models/best_aspect_model.pt
+**/__pycache__/
+venv/
+venv/lib/python3.10/site-packages/

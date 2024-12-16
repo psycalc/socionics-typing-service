@@ -1,0 +1,19 @@
+ILE (Intuitive Logical Extrovert)
+SEI (Sensory Ethical Introvert)
+ESE (Ethical Sensory Extrovert)
+LII (Logical Intuitive Introvert)
+
+SLE (Sensory Logical Extrovert)
+IEI (Intuitive Ethical Introvert)
+EIE (Ethical Intuitive Extrovert)
+LSI (Logical Sensory Introvert)
+
+SEE (Sensory Ethical Extrovert)
+ILI (Intuitive Logical Introvert)
+LIE (Logical Intuitive Extrovert)
+ESI (Ethical Sensory Introvert)
+
+IEE (Intuitive Ethical Extrovert)
+SLI (Sensory Logical Introvert)
+LSE (Logical Sensory Extrovert)
+EII (Ethical Intuitive Introvert)
